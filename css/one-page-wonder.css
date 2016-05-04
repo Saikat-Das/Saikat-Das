@@ -44,6 +44,20 @@ body {
     -o-background-size: cover;
 }
 
+.header-imageact {
+    display: block;
+    width: 100%;
+    text-align: center;
+     background-image: url('acthead.jpg');
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+
 .headline {
     padding: 120px 0;
 }
