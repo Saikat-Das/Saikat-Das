@@ -56,6 +56,18 @@ body {
     -o-background-size: cover;
 }
 
+.header-imagegame {
+    display: block;
+    width: 100%;
+    text-align: center;
+     background-image: url('games.jpg');
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 
 
 .headline {
