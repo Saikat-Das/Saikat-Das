@@ -99,7 +99,9 @@ body {
 
 .headline h1 {
     font-size: 130px;
-    text-shadow: 7px 7px #222;
+    text-shadow: 5px 5px #222;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
 
 }
 
