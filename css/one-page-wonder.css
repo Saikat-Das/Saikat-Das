@@ -80,6 +80,18 @@ body {
     -o-background-size: cover;
 }
 
+.header-imageanimate {
+    display: block;
+    width: 100%;
+    text-align: center;
+     background-image: url('animate.JPG');
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 
 .headline {
     padding: 120px 0;
