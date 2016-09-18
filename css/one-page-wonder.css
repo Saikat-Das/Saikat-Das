@@ -92,6 +92,18 @@ body {
     -o-background-size: cover;
 }
 
+.header-imagedesign {
+    display: block;
+    width: 100%;
+    text-align: center;
+     background-image: url('img/Cover Characters-01.jpg');
+   
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 
 .headline {
     padding: 200px 0;
